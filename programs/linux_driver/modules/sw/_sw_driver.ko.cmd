@@ -1,0 +1,1 @@
+cmd_/home/kunhuahuang/project/cpukh/linux_driver/cpukh_v1/sw/sw_driver.ko := ld -EL -r  -T /lib/module/linux-xlnx/scripts/module-common.lds --build-id  -o /home/kunhuahuang/project/cpukh/linux_driver/cpukh_v1/sw/sw_driver.ko /home/kunhuahuang/project/cpukh/linux_driver/cpukh_v1/sw/sw_driver.o /home/kunhuahuang/project/cpukh/linux_driver/cpukh_v1/sw/sw_driver.mod.o
